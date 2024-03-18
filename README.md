@@ -1,10 +1,10 @@
 ```json
 {
-  "profile": {                                                   ／l、
-    "name": "Mustakim Islam Alif",                             （ﾟ､ ｡７
-    "username": "aluffyyy",                                      l、ﾞ~ヽ
-    "location": "The unfair Realm of Bangladesh"                 じしf_, )ノ
-  },                                                          --------------
+  "profile": {                                       
+    "name": "Mustakim Islam Alif",                         
+    "username": "aluffyyy",                                   
+    "location": "The unfair Realm of Bangladesh"              
+  },                                                      
   "skills": {
     "codex_of_arcane_craft": [  
       {
