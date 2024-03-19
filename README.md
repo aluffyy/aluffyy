@@ -44,7 +44,8 @@
 ```
 
 <div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aluffyy&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=aluffyy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true&order=2" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aluffyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=catppuccin_mocha&hide_border=true&order=2" height="150" alt="loveToWorkOn"  />
 </div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aluffyy&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
+
