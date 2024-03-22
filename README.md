@@ -38,7 +38,7 @@
   },
   "achievements": [
     "Successfully completed a Computer Science Engineering degree. - Conquering the dreaded four-year quest!",
-    "Contributed to open-source projects. Sharing my knowledge, one line of code at a time"
+    "Contributed to open-source projects. Sharing my knowledge, one line of code at a time" 
   ]
 }
 ```
